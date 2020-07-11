@@ -60,7 +60,7 @@ The code is written in Python 3.6.3 and uses PyTorch 0.4.0. I have used detailed
 
 #### Other Hyperparameters
 
-- tau: Used For soft update of target network, 0.2
+- tau: Used for soft update of target network, 0.2
 
 - learning_rate_actor:  Learning rate for actor, 1e-4 
 
