@@ -36,10 +36,6 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 3. Place the downloaded file in the same directory as this GitHub repository and unzip the file.
 
-4. Install other dependencies:
-```
-pip install -r requirements.txt
-```
 
 ### Instructions
 After you have followed the instructions above, open `Tennis.ipynb` and follow the instructions in the notebook. Run the commands and watch your agent get trained!
